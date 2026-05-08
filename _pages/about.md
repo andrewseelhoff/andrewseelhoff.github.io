@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2104 FRB</p>
+    <p>2505 Hayward Street</p>
+    <p>Ann Arbor, MI 48109</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+PhD Candidate in the [Locomotor Control Systems Lab](https://locolab.robotics.umich.edu/index.html) advised by [Dr. Robert Gregg](https://gregg.engin.umich.edu/)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a fourth-year PhD candidate at U-M Ann Arbor, and my current research focuses on the biomechanical challenges of amputee gait when using a powered-knee, passive-ankle prosthesis, with the intent of translating state-of-the-art multi-joint prosthesis control methods onto this commercially-proven hardware. I received a [B.S. in Mechanical Engineering](https://meche.mit.edu/) from the Massachusetts Institute of Technology. My PhD will also be in [Mechanical Engineering](https://me.engin.umich.edu/), but I am pursuing an MS in [Robotics](https://robotics.umich.edu/).
+
+As an above-knee amputee, my interest in this field goes beyond the science itself. Since deciding to amputate my leg nearly twelve years ago, I've been deeply immersed in the amputee community, being part of everything from adaptive sports to advocacy and everything in between. TODO ADD MORE HERE.
+
+Outside of research, I enjoy cooking, board/card/video games, hiking, and going on adventures, some of which you'll start seeing here in the blog section hopefully!
