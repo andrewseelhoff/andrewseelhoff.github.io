@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-an-intro-to-project-ivy",
         
-          title: "",
+          title: "An intro to Project IVY",
         
-        description: "",
+        description: "A showcase of my latest automotive endeavor, this time with a vehicle from the current decade!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2025-05-08-project-ivy-intro/";
+            window.location.href = "/blog/2026/project-ivy-intro/";
           
         },
       },{id: "post-a-post-with-plotly-js",
