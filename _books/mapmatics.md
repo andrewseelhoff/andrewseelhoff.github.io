@@ -6,8 +6,8 @@ isbn: 9780674294233 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: science math nerdstuff
 tags: 
 
-date: 2024-05-01
-started: 2024-05-01
+date: 2026-05-01
+started: 2026-05-01
 finished: 
 released: 2024
 status: In Progress
