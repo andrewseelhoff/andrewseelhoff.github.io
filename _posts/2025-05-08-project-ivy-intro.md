@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An intro to Project: IVY
+title: An intro to Project IVY
 date: 2026-05-08 13:05:00
 description: A showcase of my latest automotive endeavor, this time with a vehicle from the current decade!
 tags: project-ivy
