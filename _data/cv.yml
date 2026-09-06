@@ -119,7 +119,7 @@ cv:
 
     Skills:
       - name: Machines
-        keywords: "Mill/lathe, surface-mount soldering, Injection molding, 3-axis CNC machining (HAAS)""
+        keywords: "Mill/lathe, surface-mount soldering, Injection molding, 3-axis CNC machining (HAAS)"
       
       - name: Programming
         keywords: "Python 3 (intermediate), MATLAB (advanced) + Simulink (beginner), ROS (beginner), C++ (intermediate), git (intermediate)"
@@ -131,7 +131,7 @@ cv:
         keywords: "Solidworks Visualize, V-Ray for SketchUp (intermediate)"
       
       - name: Media Editing
-        keywords: 
+        keywords: "Adobe Premiere Pro (beginner)"
     Languages:
       - name: English
         summary: "Native speaker"
