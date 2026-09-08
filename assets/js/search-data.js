@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-an-intro-to-project-ivy",
+            },{id: "post-rate-this-train-port-jervis-line",
+        
+          title: "RATE THIS TRAIN (Port Jervis Line)",
+        
+        description: "After many years of hiatus, the hit pseudo-podcast is BACK in... does this count as upstate New York?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/R8TT-PortJervis/";
+          
+        },
+      },{id: "post-an-intro-to-project-ivy",
         
           title: "An intro to Project IVY",
         
@@ -428,6 +439,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mapmatics/";
+            },},{id: "books-mapmatics",
+          title: 'Mapmatics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thermodynamic_weirdness/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
