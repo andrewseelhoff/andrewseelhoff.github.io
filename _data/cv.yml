@@ -7,12 +7,10 @@ cv:
   summary: I'm an above-knee amputee, but also a researcher. I'm interested in the biomechanics of amputee gait and how we can improve prosthesis control methods to deliver real-world outcomes for people like me, with the broader goal of improving the state of powered and passive prosthetic devices at large.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: andrewseelhoff
     - network: LinkedIn
-      username: example
+      username: andrew-seelhoff
 
   address:
     street: 2545 Hayward St
@@ -26,7 +24,7 @@ cv:
       - institution: University of Michigan
         location: Ann Arbor, Michigan, USA
         url: https://www.umich.edu
-        area: Robotics
+        area: Mechanical Engineering
         studyType: PhD
         start_date: 2023
         end_date: 2028
@@ -34,7 +32,7 @@ cv:
           - TO BE ADDED
           - TO BE ADDED
       - institution: University of Michigan
-        location: Ann Arbor, Michigan, USA
+        location: Ann Arbor, MI, USA
         url: https://www.umich.edu
         area: Robotics
         studyType: MS
@@ -45,7 +43,7 @@ cv:
           - TO BE ADDED
 
       - institution: Massachusetts Institute of Technology
-        location: Cambridge, Massachusetts, USA
+        location: Cambridge, MA, USA
         url: https://mit.edu
         area: Mechanical Engineering
         studyType: Bachelor of Science
@@ -58,7 +56,7 @@ cv:
     Experience:
       - company: Otto Bock Healthcare LP
         position: Mechanical Engineering Intern
-        location: West Valley City, Utah, USA
+        location: West Valley City, UT, USA
         start_date: Jan. 2023
         end_date: Jul. 2023
         summary: TO BE ADDED
@@ -69,105 +67,95 @@ cv:
 
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Amputee Coalition of America
+        position: Certified Lead Advocate
+        location: Washington, D.C.
+        start_date: 2025-03-01
+        end_date: 
+        summary: Learned skills needed to help So Every BODY Can Move (SEBCM) Legislation be passed in 28 states by 2028, allowing every BODY to live an active life!
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Aiming to help bring SEBCM to Michigan.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
+      - title: NSF Graduate Research Fellowship
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - test field
+        date: 2023
+        awarder: National Science Foundation
+        summary: $169,000 funding for [TO BE ADDED]
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Adapting Biomimetic Kinematics for Controlling a Powered-Knee, Passive-Ankle Prosthesis Across Inclines
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - C. A. Seelhoff
+          - T. K. Best
+          - R. D. Gregg
+        publisher: IEEE Int Conf Rehab Robotics (ICORR)
+        releaseDate: 2025-05-01
+        url: https://locolab.robotics.umich.edu/documents/SeelhoffGregg-ICORR2025.pdf
+        summary: This conference paper introduces my adaptaitons to Kevin Best's Hybrid Kinematic Impedance Control. My adaptaions adjust knee control commands to account for a passive ankle during inclined walking.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Implementation and Validation of a Data-Driven Variable Impedance Controller on the Össur Power Knee
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - T. K. Best
+          - C. A. Seelhoff
+          - R. D. Gregg
+        publisher: IEEE Int Conf Rehab Robotics (ICORR)
+        releaseDate: 2025-05-01
+        url: https://locolab.robotics.umich.edu/documents/BestGregg-ICORR2025.pdf
+        summary: This paper details adaptations to Hybrid Kinematic Impedance cotrol in level ground and sit-stand tasks to enable use on the commercially-available Össur Power Knee.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: The clinical effects of the Össur Power Knee with phase-based and default control during sitting, standing and walking
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - T. K. Best
+          - C. A. Seelhoff
+          - J. Wensman
+          - R. D. Gregg
+        publisher: Journal of NeuroEngineering and Rehabilitation (JNER)
+        releaseDate: 2025-09-29
+        url: https://link.springer.com/article/10.1186/s12984-025-01729-2
+        summary: In an n = 7 trial, we compare the Power Knee's stock controller to our adapted HKIC paradigm as well as users' take-home devices across a range of sitting, standing, and walking activities to determine whether results observed on prototype hardware can be observed on commercial devices.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+      - name: Machines
+        keywords: "Mill/lathe, surface-mount soldering, Injection molding, 3-axis CNC machining (HAAS)"
+      
+      - name: Programming
+        keywords: "Python 3 (intermediate), MATLAB (advanced) + Simulink (beginner), ROS (beginner), C++ (intermediate), git (intermediate)"
+      
+      - name: CAD / CAM
+        keywords: "Solidworks (intermediate), Autodesk Fusion (intermediate), SketchUp (intermediate)"
+      
+      - name: Rendering
+        keywords: "Solidworks Visualize, V-Ray for SketchUp (intermediate)"
+      
+      - name: Media Editing
+        keywords: "Adobe Premiere Pro (beginner)"
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: German
+        summary: "Conversational"
 
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    #Certificates:
+    #  - name: Machine Learning
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #  - name: Quantum Computing
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #  - name: Quantum Information
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-envelope
