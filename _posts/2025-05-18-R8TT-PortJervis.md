@@ -11,7 +11,7 @@ Ok, I need to provide some context here.
 
 After all my friends and I graduated from undergrad, we found this group-podcasting app called Capuccino where you could record voice memos and every day, all the memos would get snipped together into a kinda podcast sorta thing. It was a great way for us to all stay in touch as we went our separate ways. 
 
-A few of us are public transit and general train nerds, so we started a segment called "Rate this Train" where we, unsurprisingly, would take a train and rate it.
+A few of us are public transit and general train nerds, so we started a segment called "Rate this Train" where we, unsurprisingly, would take a train and rate our experience on it.
 
 Well, Simmons Hall Friends, after long last I am bringing this back, at least in text form!
 
