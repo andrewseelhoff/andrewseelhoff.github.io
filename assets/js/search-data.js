@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This page provides a high-level overview of my CV. See the PDF link above this text to download the full thing!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -439,8 +439,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mapmatics/";
-            },},{id: "books-mapmatics",
-          title: 'Mapmatics',
+            },},{id: "books-thermodynamic-weirdness",
+          title: 'Thermodynamic Weirdness',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thermodynamic_weirdness/";
