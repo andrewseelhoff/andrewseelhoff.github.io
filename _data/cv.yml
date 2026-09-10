@@ -22,15 +22,15 @@ cv:
   sections:
     Education:
       - institution: University of Michigan
-        location: Ann Arbor, Michigan, USA
+        location: Ann Arbor, MI, USA
         url: https://www.umich.edu
         area: Mechanical Engineering
         studyType: PhD
         start_date: 2023
         end_date: 2028
         highlights:
-          - TO BE ADDED
-          - TO BE ADDED
+          - Advised by Prof. Robert Gregg
+          - Thesis Title TBD
       - institution: University of Michigan
         location: Ann Arbor, MI, USA
         url: https://www.umich.edu
@@ -38,20 +38,18 @@ cv:
         studyType: MS
         start_date: Aug. 2023
         end_date: TBD
-        highlights:
-          - TO BE ADDED
-          - TO BE ADDED
+
 
       - institution: Massachusetts Institute of Technology
         location: Cambridge, MA, USA
-        url: https://mit.edu
+        url: https://dspace.mit.edu/handle/1721.1/150285
         area: Mechanical Engineering
         studyType: Bachelor of Science
         start_date: Aug. 2018
         end_date: Feb. 2023
         highlights:
-          - TO BE ADDED
-          - TO BE ADDED
+          - worked under Prof. Hugh Herr in the Biomechantronics Group of the MIT Media Lab
+          - see URL for undergraduate thesis, titled "evaluating a reflexive neuromuscular gait model against real-world results ""
 
     Experience:
       - company: Otto Bock Healthcare LP
@@ -59,10 +57,9 @@ cv:
         location: West Valley City, UT, USA
         start_date: Jan. 2023
         end_date: Jul. 2023
-        summary: TO BE ADDED
         highlights:
-          - TO BE ADDED
-          - TO BE ADDED
+          - Performed pilot experiments for novel prosthetic liner cleaning technology
+          - Developed a standalone application in MATLAB to automate processing of routine test data for prosthesis liner coupons, allowing real-time visualization for SPC
 
 
 
@@ -81,10 +78,12 @@ cv:
       - title: NSF Graduate Research Fellowship
         authors:
           - test field
-        date: 2023
+        date: 2025
         awarder: National Science Foundation
-        summary: $169,000 funding for [TO BE ADDED]
-
+        summary: $169,000 funding for developing bio-inspired knee prosthesis controllers which can account for passive ankle prostheses.
+      - title: Rackham Merit Fellowship
+        date: 2023
+        awarder: University of Michigan, Rackham Graduate School
     Publications:
       - title: Adapting Biomimetic Kinematics for Controlling a Powered-Knee, Passive-Ankle Prosthesis Across Inclines
         authors:

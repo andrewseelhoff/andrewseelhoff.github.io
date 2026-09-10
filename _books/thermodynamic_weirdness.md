@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Mapmatics
+title: Thermodynamic Weirdness
 author: Don S. Lemons
 isbn: 9780262538947 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: science math nerdstuff
@@ -8,7 +8,7 @@ tags:
 
 date: 2026-05-19
 started: 2026-01-01
-finished: 
+finished: 2026-06-01
 released: 2020
 status: Completed
 ---
