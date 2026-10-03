@@ -7,21 +7,44 @@ tags: project-ivy
 categories: sample-posts
 ---
 
-I need to fully write this out but here's how the story goes:
+I need to fully write this out but here's how the story goes.
 
 A bit first on my automotive history:
 
 My first car was actually owned by my parents. (thanks mom and dad!) It was a 2014 Ford Fiesta (not an ST-- I can't drive stick!) and was such a blast to drive. That little PartyMobile would get 35 MPG even when ripping it around town. It had accent lighting inside and was cool as hell.
 
-I got bored towards the end of high school and plasti-dipped the wheels blue. I almost did it in pink and really wish I had.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Fiesta.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
+</div>
+
 
 My second car was an impulse buy as I just needed a beater car to get by during COVID, as I was at home instead of in Boston. I found a lovely 1999 Volvo V70 with just 95,000 miles on it and paid only $2500. What a wagon it was! While pathetically slow, it sounded great and is still to this day, the smoothest driving vehicle I've ever owned or driven. They really don't make them like they used to.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/V70Back.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/V70Handcycle.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   It even could fit my handcycle!
+</div>
+
 In summer 2023, I found a 2011 Subaru Outback 3.6R in quite great condition in the Salt Lake valley. It was a culmination of literally MONTHS of searching for the perfect, do-anything-and-go-anywhere car that could serve all my needs in grad school, from moving, to people hauling, to drifting in the snow.
 
-Did I overpay for it? Probably. Did I spend thousands more in work on it? you bet. Was it worth it? Let the photos speak for themselves.
+Did I overpay for it? Probably. Did I spend thousands more in work on it? you bet. Was it worth it? I would certainly say so.
 
-(the photos will go here, I swear)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/OutbackCamping.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
+</div>
 
 This absolute beast of a wagon, with 250 actually-kinda-screaming horsepower, brought me on some of the best trips I've ever been on. It's seen over a dozen states, ascended as high as 12,000 feet, and been to a few national parks and destinations of note. Never has it been more exhilirating to do a second-gear-pull to 80 miles an hour on a freeway onramp.
 
@@ -33,6 +56,14 @@ But, this car has lived in rusty habitats for fifteen years and uhh... needed to
 
 And thus, as a "Christmas gift" to myself, Untitied Seelhoff Automotive Project IV was born on December 24, 2025. My roommate suggested I named the car Ivy because of the roman numerals, and thus Project: IVY stuck.
 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/OutbackSnow.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
+</div>
+
 So what have I done with this 2025 Subaru Outback, besides lament the progression of modern technology and stupid touchscreen features for stuff like air conditioning?
 
 On my way back out to Ann Arbor, I drove through Zion and Bryce Canyon national parks, putting the car through some good mountain drives and driving through LOTS of fog.
@@ -41,4 +72,4 @@ Ann Arbor's winter gave plenty of snowy days to test out the latest Subaru AWD a
 
 I recently upgraded to a full-size spare, as these Outbacks can natively support one! No need for an expensive mount or crazy retrofitting. All you need to do is... buy a five hundred dollar OEM wheel, a two hundred dollar tire, and get a silly insert for the tools to go into. And drive all the way out to Troy, MI to pick them up because Subaru of Ann Arbor doesn't do parts ordering for some reason.
 
-Up next is my first DIY oil change (necessary), cabin and engine air filters (boring), and installing some new mud flaps (fun!). You'll see a blog post on that soon, hopefully.
+I also had my first DIY oil change (necessary), swapped cabin and engine air filters (boring), and installed some new mud flaps (fun!). Otherwise it's still running strong and roadtripping all over the place!
